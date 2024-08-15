@@ -1,0 +1,11 @@
+{
+  "strictLineBreaks": true,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "focusNewTab": false,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "promptDelete": false
+}

@@ -1,0 +1,5 @@
+.markdown-preview.view p,
+.markdown-preview.view li,
+.cm-content{
+    line-height: 1.8;
+}
