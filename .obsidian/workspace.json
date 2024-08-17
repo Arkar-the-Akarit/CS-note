@@ -163,6 +163,7 @@
   },
   "active": "788bd2d1c1d70b4a",
   "lastOpenFiles": [
+    "Git/fetchTest.txt",
     "Git/Git Images/git diff --staged-1.png",
     "Git/Git Images/diff.png",
     "Git/Git Images/diff command in CLI.png",
@@ -179,7 +180,6 @@
     "diff command by GPT.md",
     "Git/Git Images/git log -n.png",
     ".gitignore folder.png",
-    ".gitignore.png",
     "Git/Configuration in Git.md",
     "Git/PDF/Git and Github.pdf",
     "Git/PDF",
