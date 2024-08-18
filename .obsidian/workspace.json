@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git Commands.md",
+                "file": "Web Development/CSS/CSS List & Table/CSS List.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ee67afb7d57ceee1",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Commands.md",
+                "file": "Web Development/CSS/CSS List & Table/CSS List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git Commands.md",
+                "file": "Web Development/CSS/CSS List & Table/CSS List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git Commands.md"
+                "file": "Web Development/CSS/CSS List & Table/CSS List.md"
               }
             }
           }
@@ -163,11 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f961b4bd8584b4eb",
+  "active": "ef568e74e61a012e",
   "lastOpenFiles": [
+    "CS50/Week-0/ASCII.md",
+    "CS50/Untitled.md",
+    "CS50/Week-0",
+    "Git/Git Commands.md",
+    "CS50",
     "Git/Connect GitHub & Commands.md",
     "Git/Git.md",
-    "Git/Git Commands.md",
     "Git/Commands for CLI.md",
     "Git/fetchTest.txt",
     "Git/Git Images/git diff --staged-1.png",
@@ -197,8 +200,6 @@
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Data Structure.md",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Images",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure",
-    "Data Strucutre & Algorithms/Data Strucutre & Algorithms",
-    "Data Strucutre & Algorithms",
     "C/C Programming/C Assignment/Assignment 6.md",
     "C/C Programming/Untitled.md",
     "C/C Programming/File Handling in C.md",
@@ -209,8 +210,6 @@
     "2024-08-08.md",
     "Command line Interface/Untitled.md",
     "Web Development/CSS/Responsive CSS/Responsive CSS.md",
-    "Web Development/CSS/Position, Transition, Background Image/Layout with CSS.md",
-    "Web Development/CSS/Position, Transition, Background Image/Float Layout in CSS.md",
     "wrap-reverse.canvas"
   ]
 }
