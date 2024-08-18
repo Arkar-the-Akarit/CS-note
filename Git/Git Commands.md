@@ -79,7 +79,7 @@ chat gpt က ရှင်းပြထားတဲ့ ဥပမာကို [[git
  
 ![[git reset.png]]
 
-##### git branch
+###### git branch
 
 လက်ရှိ ရှိနေတဲ့ branch တွေကိုကြည့်တာ, branch အသစ်လုပ်ဖို့, အဟောင်းဖျက်ဖို့ သုံးလို့ရပါတယ်။
 
@@ -96,7 +96,7 @@ git config --global init.defaultBranch defaultBranchNameHere
 ```
 
 
-##### git switch
+###### git switch
 
 branch တစ်ခုကနေ တစ်ခုကူးပြောင်းဖို့ သုံးတယ်။
 
@@ -166,12 +166,10 @@ git diff --staged
 	
 
 
-....
+###### git merge:
 
-git remote
-git push
-git pull
-git clone
-git merge
-git fetch
+branch တစ်ခုမှာ လုပ်စရာရှိတာလုပ်ပြီးသွားတဲ့အခါ အဲ့ branch ကို အခြားသော branch (e.g. main branch) ထဲ သွားပေါင်းဖို့လုပ်တဲ့ အခါသုံးတယ်
 
+အရင်ဆုံး ကိုယ် <span style="color:rgb(146, 208, 80)">သွားပေါင်းမယ့် branch ဆီ</span>ကို switch/checkout command နဲ့ သွား။ အဲ့ branch ထဲရောက်ပြီဆိုမှ  
+
+syntax --> <mark style="background: #FFF3A3A6;">git merge feature-branchName</mark>
