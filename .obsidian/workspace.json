@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "315013a3d0971ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/HTML/Formatting Elements.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -149,23 +162,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3276e260c0d182cb",
+  "active": "ef568e74e61a012e",
   "lastOpenFiles": [
-    "hi!.png",
-    "Git/Connect GitHub & Commands.md",
+    "Web Development/HTML/Formatting Elements.md",
     "CS50/Week-0 Introduction/Introduction.md",
-    "ASCII table.png",
-    "base-2.png",
-    "binary digits in herusitic ways.png",
-    "bit & byte.png",
-    "Pasted image 20240819144453.png",
+    "Web Development/HTML/Form Elements.md",
+    "Web Development/HTML/Html Elements.md",
+    "Web Development/HTML/Generic Elements.md",
+    "Web Development/HTML/Html Symbols.md",
+    "big-O notation for name searching.png",
+    "rgb_result.png",
+    "rgb-color.png",
+    "CS50/Week-0 Introduction/0-imgs/hi!.png",
+    "CS50/Week-0 Introduction/0-imgs/computer-programming.png",
+    "CS50/Week-0 Introduction/0-imgs/bit & byte.png",
+    "CS50/Week-0 Introduction/0-imgs/binary digits in herusitic ways.png",
+    "CS50/Week-0 Introduction/0-imgs/base-2.png",
+    "CS50/Week-0 Introduction/0-imgs/Pasted image 20240819144453.png",
+    "CS50/Week-0 Introduction/0-imgs/ASCII table.png",
+    "CS50/Week-0 Introduction/0-imgs",
+    "Git/Connect GitHub & Commands.md",
     "DSA + C/Data Strucutre & Algorithms/Symbolic Constant in C.md",
-    "DSA + C/Data Strucutre & Algorithms/Images/stack_example.png",
     "DSA + C/Data Strucutre & Algorithms/color.md",
-    "DSA + C/Data Strucutre & Algorithms/Images/stack_arr_push.png",
-    "DSA + C/Data Strucutre & Algorithms/Images/stack_arr_pop.png",
-    "DSA + C/Data Strucutre & Algorithms/Images/stack_arr_peek.png",
-    "DSA + C/Data Strucutre & Algorithms/Images/stack_arr_initialization.png",
     "DSA + C/C Programming/File Handling in C.md",
     "DSA + C/C Programming/CSS for fast Access.md",
     "DSA + C/C Programming/C Assignment/Assignment 6.md",
@@ -189,14 +207,9 @@
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Symbolic Constant in C.md",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/color.md",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Linked List/Single Linked List Tree.md",
-    "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Linked List/Double Linked List.md",
-    "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Stack/Stack.md",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Stack",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Linked List",
-    "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Data Structure.md",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Images",
-    "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure",
-    "C/C Programming/C Assignment/Assignment 6.md",
     "wrap-reverse.canvas"
   ]
 }
