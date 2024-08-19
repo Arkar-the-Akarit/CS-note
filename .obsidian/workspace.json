@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/Week-0 Introduction/Introduction.md",
+                "file": "Git/Connect GitHub & Commands.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ee67afb7d57ceee1",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Week-0 Introduction/Introduction.md",
+                "file": "Web Development/HTML/Formatting Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Week-0 Introduction/Introduction.md",
+                "file": "Web Development/HTML/Formatting Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Week-0 Introduction/Introduction.md"
+                "file": "Web Development/HTML/Formatting Elements.md"
               }
             }
           }
@@ -164,8 +164,16 @@
   },
   "active": "ef568e74e61a012e",
   "lastOpenFiles": [
-    "Web Development/HTML/Formatting Elements.md",
+    "Git/Git Images/gitignore_folder.png",
+    "Git/Git Images/gitignore.png",
+    "gitignore.png",
+    "gitignore_folder.png",
+    "CS50/Week-0 Introduction/0-imgs/rgb_result.png",
+    "CS50/Week-0 Introduction/0-imgs/rgb-color.png",
+    "CS50/Week-0 Introduction/0-imgs/big-O notation for name searching.png",
+    "Git/Connect GitHub & Commands.md",
     "CS50/Week-0 Introduction/Introduction.md",
+    "Web Development/HTML/Formatting Elements.md",
     "Web Development/HTML/Form Elements.md",
     "Web Development/HTML/Html Elements.md",
     "Web Development/HTML/Generic Elements.md",
@@ -174,14 +182,7 @@
     "rgb_result.png",
     "rgb-color.png",
     "CS50/Week-0 Introduction/0-imgs/hi!.png",
-    "CS50/Week-0 Introduction/0-imgs/computer-programming.png",
-    "CS50/Week-0 Introduction/0-imgs/bit & byte.png",
-    "CS50/Week-0 Introduction/0-imgs/binary digits in herusitic ways.png",
-    "CS50/Week-0 Introduction/0-imgs/base-2.png",
-    "CS50/Week-0 Introduction/0-imgs/Pasted image 20240819144453.png",
-    "CS50/Week-0 Introduction/0-imgs/ASCII table.png",
     "CS50/Week-0 Introduction/0-imgs",
-    "Git/Connect GitHub & Commands.md",
     "DSA + C/Data Strucutre & Algorithms/Symbolic Constant in C.md",
     "DSA + C/Data Strucutre & Algorithms/color.md",
     "DSA + C/C Programming/File Handling in C.md",
@@ -206,7 +207,6 @@
     "Git/New folder",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Symbolic Constant in C.md",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/color.md",
-    "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Linked List/Single Linked List Tree.md",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Stack",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Linked List",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Images",
