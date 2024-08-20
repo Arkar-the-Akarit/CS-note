@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Connect GitHub & Commands.md",
+                "file": "Git/git reset example by GPT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/HTML/Formatting Elements.md",
+                "file": "CS50/Week-0 Introduction/Introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/HTML/Formatting Elements.md",
+                "file": "Git/git reset example by GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/HTML/Formatting Elements.md",
+                "file": "Git/git reset example by GPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/HTML/Formatting Elements.md"
+                "file": "Git/git reset example by GPT.md"
               }
             }
           }
@@ -162,8 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef568e74e61a012e",
+  "active": "3276e260c0d182cb",
   "lastOpenFiles": [
+    "CS50/Week-0 Introduction/Introduction.md",
+    "scratch-coordination.png",
+    "Git/Connect GitHub & Commands.md",
     "Git/Git Images/gitignore_folder.png",
     "Git/Git Images/gitignore.png",
     "gitignore.png",
@@ -171,8 +173,6 @@
     "CS50/Week-0 Introduction/0-imgs/rgb_result.png",
     "CS50/Week-0 Introduction/0-imgs/rgb-color.png",
     "CS50/Week-0 Introduction/0-imgs/big-O notation for name searching.png",
-    "Git/Connect GitHub & Commands.md",
-    "CS50/Week-0 Introduction/Introduction.md",
     "Web Development/HTML/Formatting Elements.md",
     "Web Development/HTML/Form Elements.md",
     "Web Development/HTML/Html Elements.md",
@@ -180,8 +180,6 @@
     "Web Development/HTML/Html Symbols.md",
     "big-O notation for name searching.png",
     "rgb_result.png",
-    "rgb-color.png",
-    "CS50/Week-0 Introduction/0-imgs/hi!.png",
     "CS50/Week-0 Introduction/0-imgs",
     "DSA + C/Data Strucutre & Algorithms/Symbolic Constant in C.md",
     "DSA + C/Data Strucutre & Algorithms/color.md",

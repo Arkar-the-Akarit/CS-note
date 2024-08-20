@@ -133,3 +133,25 @@ Pseudocode ထဲမှာ ရှိတဲ့ unique features လေးတွေ
 	- စာသားအချို့ကကျ မှန်/မှား (true or false) ဆိုပြီး ဆုံးဖြတ်ရတာမျိုး e.g. "person is earlier in the book" ဆိုတာမျိုးတွေ, ရှိလား မရှိဘူးလားပေါ့ --> boolean expression လို့ခေါ်
 	- 'go back to line 3' ဆိုပြီး တစ်နေရာရာကို ပြန်သွားခိုင်းတာမျိုးကျ    --> loop 
 	- အပေါ်က အခေါ််အဝေါ်/အယူအဆလေးတွေက programming မှာ အခြေခံဘဲ
+
+###### Artificial Intelligence
+
+<mark style="background: #CACFD9A6;">Large Language Models (LLMs)</mark> တွေကို သုံးပြီး AI တွေကို ဖန်တီးလို့ရတယ်။ သူတို့ code blocks အကြီးကြီးတွေထဲကနေမှ patternsတွေနဲ့ ဘယ်စာလုံးပြီးရင် ဘယ်စာလုံးသွားမယ်ဆိုတာကို ခန့်မှန်းပြီး users တွေနဲ့ Interact လုပ််နိုင်တယ်။
+
+###### Scratch
+
+block ‌လေးတွေကို ချိတ်ပြီး program ရေးနိုင်အောင်လုပ်ထားတဲ့ visual programming language
+MIT (မြန်မာက မဟုတ်ပါ) က develop လုပ်ထားတယ်။
+
+scratch ရဲ့ coordinate system က ဒီလိုသွားတယ်
+
+![[scratch-coordination.png]]
+
+###### Abstraction
+
+pseudocoding လိုဘဲ abstraction ကလည်း Programming အပိုင်းမှာ အရေးကြီးတဲ့ concept တစ်ခုဘဲ။
+
+abstraction ဆိုတာက ပြဿနာကြီးတစ်ခုကို သေးသေးလေးတွေဖြစ်အောင် ပိုင်းပိုင်းသွားတာကိုပြောတာ။ 
+
+
+6600 + 5200 - rate 2100
