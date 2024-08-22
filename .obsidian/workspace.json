@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git reset example by GPT.md",
+                "file": "CS50/Week-1 C/First Program in C.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/git reset example by GPT.md",
+                "file": "CS50/Week-1 C/First Program in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/git reset example by GPT.md",
+                "file": "CS50/Week-1 C/First Program in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/git reset example by GPT.md"
+                "file": "CS50/Week-1 C/First Program in C.md"
               }
             }
           }
@@ -163,6 +163,13 @@
   },
   "active": "3276e260c0d182cb",
   "lastOpenFiles": [
+    "CS50/Week-1 C/How Programming Works.md",
+    "CS50/Week-1 C/First Program in C.md",
+    "Git/Interface.md",
+    "parts of VSCode.png",
+    "compiler.png",
+    "Git/git reset example by GPT.md",
+    "CS50/Week-1 C",
     "CS50/Week-0 Introduction/Introduction.md",
     "scratch-coordination.png",
     "Git/Connect GitHub & Commands.md",
@@ -178,8 +185,6 @@
     "Web Development/HTML/Html Elements.md",
     "Web Development/HTML/Generic Elements.md",
     "Web Development/HTML/Html Symbols.md",
-    "big-O notation for name searching.png",
-    "rgb_result.png",
     "CS50/Week-0 Introduction/0-imgs",
     "DSA + C/Data Strucutre & Algorithms/Symbolic Constant in C.md",
     "DSA + C/Data Strucutre & Algorithms/color.md",
@@ -197,17 +202,13 @@
     "Git/Commands for CLI.md",
     "Git/fetchTest.txt",
     "Git/PATH Variable.md",
-    "Git/git reset example by GPT.md",
     "diff command by GPT.md",
     "Git/Configuration in Git.md",
     "Git/PDF/Git and Github.pdf",
     "Git/PDF",
     "Git/New folder",
-    "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Symbolic Constant in C.md",
-    "Data Strucutre & Algorithms/Data Strucutre & Algorithms/color.md",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Stack",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Linked List",
-    "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Images",
     "wrap-reverse.canvas"
   ]
 }
