@@ -161,8 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3276e260c0d182cb",
+  "active": "ef568e74e61a012e",
   "lastOpenFiles": [
+    "CS50/Week-1 C/1-imgs/scratch-coordination.png",
+    "CS50/Week-1 C/1-imgs/parts of VSCode.png",
+    "CS50/Week-1 C/1-imgs/compiler.png",
+    "CS50/Week-1 C/1-imgs",
     "CS50/Week-1 C/How Programming Works.md",
     "CS50/Week-1 C/First Program in C.md",
     "Git/Interface.md",
@@ -178,8 +182,6 @@
     "gitignore.png",
     "gitignore_folder.png",
     "CS50/Week-0 Introduction/0-imgs/rgb_result.png",
-    "CS50/Week-0 Introduction/0-imgs/rgb-color.png",
-    "CS50/Week-0 Introduction/0-imgs/big-O notation for name searching.png",
     "Web Development/HTML/Formatting Elements.md",
     "Web Development/HTML/Form Elements.md",
     "Web Development/HTML/Html Elements.md",
@@ -203,12 +205,10 @@
     "Git/fetchTest.txt",
     "Git/PATH Variable.md",
     "diff command by GPT.md",
-    "Git/Configuration in Git.md",
     "Git/PDF/Git and Github.pdf",
     "Git/PDF",
     "Git/New folder",
     "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Stack",
-    "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Linked List",
     "wrap-reverse.canvas"
   ]
 }
