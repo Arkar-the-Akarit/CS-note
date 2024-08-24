@@ -26,16 +26,22 @@ The shell is Git Bash
 	- <span style="color:rgb(255, 105, 180)">rename</span> : <span style="color:rgb(0, 255, 255)">file path (file name 'or' child directory/file name) target directory/new Name</span> --> e.g. $ mv test1/test.txt test1/nameChangetest.txt 
 	  ဒီနေရာမှာ file name change ပြီဆိုရင် ကိုယ်change မယ့် file က parent directory ထဲမှာ မဟုတ်ဘူးဆိုရင် change လိုက်တဲ့ file ကို ဘယ်မှာ ထားမယ်ဆိုတာ သတ်မှတ်ပေး၇တယ်။ သူရှိနေတဲ့ child directory ကိုပြန်ထည့်ပြီး new name ထည့်မှ name change ပြီးရင် အဲ့ရှိနေတဲ့ directory ထဲကို ပြန်ရောက်တာ။ ဘာမှမထည့်ဘဲ e.g. $ mv test1/test.txt nameChangeTest.txt ဆိုရင် parent directory ထဲ အဲ့ file က ရောက်သွားလိမ့်မယ်။
 
+<mark style="background: #ABF7F7A6;">cp </mark> : file တစ်ခုကို <span style="color:rgb(0, 176, 240)">copy</span> ယူဖို့သုံးတယ်
+	- cp file.txt file/path/
+	- cp file.txt file/path/newName.txt
+	- <mark style="background: #FFF3A3A6;">cp -r folder/path another/folder/path</mark> --> directory တစ်ခုလုံးကို copy ဖို့သုံးတယ်
+
+
 <mark style="background: #ABF7F7A6;">rm </mark> :  
-- <span style="color:rgb(0, 176, 240)">file</span> ကို ဖျက်ဖို့သုံးတယ်။ file path (file name 'or' child directory/fileName) --> $ rm test1/test.txt
-- <span style="color:rgb(255, 155, 0)">directory</span> ကို ဖျက်ချင်ရင် rm command အနောက်မှာ option "-r" လေးကို space ခြားပြီး လိုက်ပေးရတယ်။ အဲ့နောက်မှာမှ ကိုယ်ဖျက်ချင်တဲ့ directory. --> $ rm -r directory . <mark style="background: #D2B3FFA6;">-r</mark> ဆိုတဲ့ option က <span style="color:rgb(255, 105, 180)">recursive </span> ကို ပြောတာ။ အဲ့တာနဲ့ ဖျက်ရင် အဲ့ directory အေ‌ာက်မှာ ရှိမယ့် files / directories တွေရော <span style="color:rgb(220, 20, 60)">အကုန်ပျက်</span>
-- rm \*fileType ဆိုရင် အဲ့ file type ရှိသမျှ အကုန်ကို တစ်ခါတည်းဖျက်တာ
-- <mark style="background: #FFF3A3A6;">rm -f</mark> -f option သုံးလိုက်ရင် nonexistent files ‌တွေကို ignore လုပ်ပြီး ဖျက်ဖို့ confirmation မတောင်းတော့ဘူး။ files or directories က not exist (မရှိ) နေ‌ရင်ဖြစ်ဖြစ်၊ write-protected (read only) ဘဲဖြစ်နေရင်တောင်ဖြစ်ဖြစ် ဖျက်ပစ်မှာ
-- <mark style="background: #FFF3A3A6;">rm -rf</mark> recursive & force ကို တွဲသုံးတာ။ အေအောက်က ရှိသမျှ sub-directories/files တွရော အကုန်ဖျက်။ e.g. <mark style="background: #BBFABBA6;">git rm -rf .git/</mark>
+	- <span style="color:rgb(0, 176, 240)">file</span> ကို ဖျက်ဖို့သုံးတယ်။ file path (file name 'or' child directory/fileName) --> $ rm test1/test.txt
+	- <span style="color:rgb(255, 155, 0)">directory</span> ကို ဖျက်ချင်ရင် rm command အနောက်မှာ option "-r" လေးကို space ခြားပြီး လိုက်ပေးရတယ်။ အဲ့နောက်မှာမှ ကိုယ်ဖျက်ချင်တဲ့ directory. --> $ rm -r directory . <mark style="background: #D2B3FFA6;">-r</mark> ဆိုတဲ့ option က <span style="color:rgb(255, 105, 180)">recursive </span> ကို ပြောတာ။ အဲ့တာနဲ့ ဖျက်ရင် အဲ့ directory အေ‌ာက်မှာ ရှိမယ့် files / directories တွေရော <span style="color:rgb(220, 20, 60)">အကုန်ပျက်</span>။ အကယ်လို့ directory ထဲမှာ ဘာfileမှ ရှိမနေဘဲ အလွတ်ကြီးဆိုရင် <mark style="background: #FFF3A3A6;">rmdir</mark> command 
+	- rm \*fileType ဆိုရင် အဲ့ file type ရှိသမျှ အကုန်ကို တစ်ခါတည်းဖျက်တာ
+	- <mark style="background: #FFF3A3A6;">rm -f</mark> -f option သုံးလိုက်ရင် nonexistent files ‌တွေကို ignore လုပ်ပြီး ဖျက်ဖို့ confirmation မတောင်းတော့ဘူး။ files or directories က not exist (မရှိ) နေ‌ရင်ဖြစ်ဖြစ်၊ write-protected (read only) ဘဲဖြစ်နေရင်တောင်ဖြစ်ဖြစ် ဖျက်ပစ်မှာ
+	- <mark style="background: #FFF3A3A6;">rm -rf</mark> recursive & force ကို တွဲသုံးတာ။ အေအောက်က ရှိသမျှ sub-directories/files တွရော အကုန်ဖျက်။ e.g. <mark style="background: #BBFABBA6;">git rm -rf .git/</mark>
 
 
 <mark style="background: #ABF7F7A6;">which </mark> : 
-- အခုသုံးနေ‌တဲ့ ls, pwd, mkdir... အစရှိတဲ့ command တွေအားလုံးက program လေးတွေ၊ သူတို့ကို terminal ထဲမှာ run ခိုင်းလိုက်ရင် terminal --> shell ကိုပို့၊ shell ကမှ တကယ် run ပေးတာပေါ့့နော်။ အဲ့မှာ ကိုယ် run တဲ့<span style="color:rgb(0, 128, 128)"> command program file က ဘယ်နားမှာ ရှိနေလဲ</span> သိချင်ရင် which command ကို သုံးရတယ်။ --> $ which ls / $ which pwd . အဲ့လိုဆိုရင် command program file ရှိတဲ့နေရာကိုပြပေးတယ်။
+	- အခုသုံးနေ‌တဲ့ ls, pwd, mkdir... အစရှိတဲ့ command တွေအားလုံးက program လေးတွေ၊ သူတို့ကို terminal ထဲမှာ run ခိုင်းလိုက်ရင် terminal --> shell ကိုပို့၊ shell ကမှ တကယ် run ပေးတာပေါ့့နော်။ အဲ့မှာ ကိုယ် run တဲ့<span style="color:rgb(0, 128, 128)"> command program file က ဘယ်နားမှာ ရှိနေလဲ</span> သိချင်ရင် which command ကို သုံးရတယ်။ --> $ which ls / $ which pwd . အဲ့လိုဆိုရင် command program file ရှိတဲ့နေရာကိုပြပေးတယ်။
 
 <mark style="background: #ABF7F7A6;">echo  </mark> : terminal ထဲမှာ text / <span style="color:rgb(146, 208, 80)">စာကြောင်းတစ်ကြောင်းကို display ပြဖို့</span>သုံးလို့ရသလို, <span style="color:rgb(0, 255, 255)">variable တစ်ခုရဲ့ value ကိုကြည့်ဖို့</span>လည်းသုံလို့ရ။ e.g. echo "Hello, World!" , echo $PATH
 

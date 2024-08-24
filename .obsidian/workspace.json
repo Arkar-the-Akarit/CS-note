@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/Week-1 C/First Program in C.md",
+                "file": "Git/Commands for CLI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Week-1 C/First Program in C.md",
+                "file": "Git/Commands for CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Week-1 C/First Program in C.md",
+                "file": "Git/Commands for CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Week-1 C/First Program in C.md"
+                "file": "Git/Commands for CLI.md"
               }
             }
           }
@@ -161,14 +161,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef568e74e61a012e",
+  "active": "3276e260c0d182cb",
   "lastOpenFiles": [
+    "CS50/Week-1 C/First Program in C.md",
+    "Untitled.md",
+    "error reading in C.png",
     "CS50/Week-1 C/1-imgs/scratch-coordination.png",
     "CS50/Week-1 C/1-imgs/parts of VSCode.png",
     "CS50/Week-1 C/1-imgs/compiler.png",
     "CS50/Week-1 C/1-imgs",
     "CS50/Week-1 C/How Programming Works.md",
-    "CS50/Week-1 C/First Program in C.md",
     "Git/Interface.md",
     "parts of VSCode.png",
     "compiler.png",
@@ -180,8 +182,6 @@
     "Git/Git Images/gitignore_folder.png",
     "Git/Git Images/gitignore.png",
     "gitignore.png",
-    "gitignore_folder.png",
-    "CS50/Week-0 Introduction/0-imgs/rgb_result.png",
     "Web Development/HTML/Formatting Elements.md",
     "Web Development/HTML/Form Elements.md",
     "Web Development/HTML/Html Elements.md",
