@@ -167,7 +167,7 @@ void meow (int n)
 
 ဒီမှာဆိုရင် no argument - void မဟုတ်တော့ဘဲ int n ဆိုပြီးဝင်လာတယ်။ အဲ့ ‌argument - n ရဲ့ တန်ဖိုးက အောက်က for loop condition နေရာမှာထည့်ထားတယ်။ ခေါ််သုံးတဲ့အချိန် function အနောက်မှာ argument value ပါတစ်ခါတည်းထည့်ပေးရမယ်။
 
-int n ဆိုပြီး data type ကို ပါတစ်ခါတည်းကြေညာပေးရတယ်။ argument က လက်ခံတဲ့အခါမှာလည်း integer data type ကိုဘဲ လက်ခံမယ်လို့ ကြေညာတာ။
+int n ဆိုပြီး data type ကို ပါတစ်ခါတည်းကြေညာပေးရတယ်။ argument က လက်ခံတဲ့အခါမှာလည်း integer data type ကိုဘဲ လက်ခံမယ်ဆိုတဲ့ သဘော
 
 ```
 #include <stdio.h>
@@ -225,3 +225,30 @@ int c ဆိုရင် test() ထဲမှာ တည်ရှိနေတယ�
 အဲ့ကောင်လေးတွေကို local scope လို့ခေါ်တယ်။ b ကို test ထဲမှာ သွားသုံးလို့မရသလို, int c ကိုလည်း main ထဲကနေ ဒီတိုင်းသုံးလို့မရဘူး။
 
 int a ကျတော့ ကွာသွားပြီ။ သူက function တွေရဲ့အပြင်မှာ လာကြေညာထားတာ။ သူ့ကိုကျ global scope လို့ခေါ်တယ်။ သူ့အောက်က ကြိုက်တဲ့ function တွေကနေ ‌ယူသုံးလို့ရတယ်။
+
+###### Loop
+
+for loop - for (initalize; conditoin; increments);
+
+while loop - condition မှန်နေသမျှ အလုပ်လုပ်မယ်။ while(true) {};
+
+do-while loop - while က condition ကို အရင် check တယ်။ မှန်မှ curly bracket ထဲက code ကို runတယ်။ do-while က အရင်ဆုံး curly bracket ထဲက code ကို <span style="color:rgb(255, 155, 0)">တစ်ခါ</span> run တယ်။ ပြီးမှ condition ကို check တယ်။
+
+```
+do {
+
+} while ();
+```
+
+do-while ထဲက while condition () ထဲမှာ သုံးမယ့် variable ကို do block ထဲမှာမှ စပြီး declare/initialize သွားလုပ်လို့မရဘူး။ ဘာလို့လဲဆိုတော့ scope ကြောင့်မလို့ပေါ့။ 
+```
+code အမှား 
+
+do 
+{
+int n = 0;
+} while (n...);
+
+```
+
+အမှန်က outside of do-while loop/ loop ရဲ့ အပြင်မှာ declare/initialize လုပ်ခဲ့ရင်သုံး

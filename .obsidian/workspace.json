@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Commands for CLI.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "315013a3d0971ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50/Week-0 Introduction/Introduction.md",
+                "file": "CS50/Week-1 C/psuedo code for mario-more.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Commands for CLI.md",
+                "file": "CS50/Week-1 C/psuedo code for mario-more.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Commands for CLI.md",
+                "file": "CS50/Week-1 C/psuedo code for mario-more.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Commands for CLI.md"
+                "file": "CS50/Week-1 C/psuedo code for mario-more.md"
               }
             }
           }
@@ -163,25 +150,32 @@
   },
   "active": "3276e260c0d182cb",
   "lastOpenFiles": [
-    "CS50/Week-1 C/First Program in C.md",
     "Untitled.md",
+    "CS50/Week-1 C/psuedo code for mario-more.md",
+    "Git/Commands for CLI.md",
+    "CS50/Week-1 C/Truncation & Type Casting & Floating-point-imprecision.md",
+    "double imprecision.png",
+    "float-point-imprecision.png",
+    "CS50/Week-1 C/Integer-overflow.md",
+    "integer-overflow-eg2.png",
+    "integre-overflow-eg.png",
+    "CS50/Week-0 Introduction/Introduction.md",
+    "CS50/Week-1 C/First Program in C.md",
+    "CS50/Week-1 C/truncation-",
+    "CS50/Week-1 C/Const in C.md",
+    "Git/Git Commands.md",
+    "Git/Interface.md",
     "error reading in C.png",
     "CS50/Week-1 C/1-imgs/scratch-coordination.png",
     "CS50/Week-1 C/1-imgs/parts of VSCode.png",
     "CS50/Week-1 C/1-imgs/compiler.png",
     "CS50/Week-1 C/1-imgs",
     "CS50/Week-1 C/How Programming Works.md",
-    "Git/Interface.md",
     "parts of VSCode.png",
     "compiler.png",
     "Git/git reset example by GPT.md",
     "CS50/Week-1 C",
-    "CS50/Week-0 Introduction/Introduction.md",
-    "scratch-coordination.png",
     "Git/Connect GitHub & Commands.md",
-    "Git/Git Images/gitignore_folder.png",
-    "Git/Git Images/gitignore.png",
-    "gitignore.png",
     "Web Development/HTML/Formatting Elements.md",
     "Web Development/HTML/Form Elements.md",
     "Web Development/HTML/Html Elements.md",
@@ -196,19 +190,12 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "CS50/Week-0/ASCII.md",
-    "CS50/Untitled.md",
     "CS50/Week-0 Introduction",
-    "Git/Git Commands.md",
     "CS50",
-    "Git/Git.md",
-    "Git/Commands for CLI.md",
     "Git/fetchTest.txt",
-    "Git/PATH Variable.md",
-    "diff command by GPT.md",
     "Git/PDF/Git and Github.pdf",
     "Git/PDF",
     "Git/New folder",
-    "Data Strucutre & Algorithms/Data Strucutre & Algorithms/Data Structure/Stack",
     "wrap-reverse.canvas"
   ]
 }

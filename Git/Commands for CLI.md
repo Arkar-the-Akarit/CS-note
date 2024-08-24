@@ -72,7 +72,10 @@ e.g. sudo chmode a+rx /usr/bin/blah
 	- c ဆိုတဲ့ စကားလုံးက 'change' လို့ပြောတာ, သဘောက ဒီလိုင်းတွေမှာ file ၂ ခုက မတူညီကြပါဘူးပေါ့
 	- < for content of diff1.txt
 	- > for content of diff2.txt
-	- \\ no newline at end of file ဆိုတာက file က text file တစ်ခုမှာ ရှိရမယ့် newline character (/n) ဆိုတာမျိုးမပါဘူးလို့ဆိုု
+	- \\ no newline at end of file ဆိုတာက file က text file တစ်ခုမှာ ရှိရမယ့် newline character (/n) ဆိုတာမျိုးမပါဘူးလို့ဆို့
+
+<mark style="background: #ADCCFFA6;">Up-arrow (↑)</mark> : သုံးလိုက်ရင် git bash / linux မှာ အပေါ်က ရိုက်ခဲ့တဲ့ command‌ တွေကို auto ပြန်ရိုက်ပေးတယ်။ ပထမဆုံးတစ်ချက်မှာ ရှေ့က command ပေါ််မယ်။ ထပ်နှိပ်လေလေ အပေါ််ကို တက်လေလေ။
+	 အဲ့လို အပေါ်ရောက်နေတာက အောက်က command ကို ဆင်းလာချင်ရင် <mark style="background: #ABF7F7A6;">Down-arrow(↓)</mark> ကို သုံးလို့ရ
 
 Terms:
 
