@@ -1,4 +1,4 @@
-
+#c
 variable တစ်ခုရဲ့ value ကို မပြောငး်ဘဲရှိစေချင်ရင် 
 အဲ့ variable data type ရှေ့မှာ '<mark style="background: #FFB86CA6;">const</mark>' ဆိုတဲ့ စာလုံးကို သုံးလို့ရတယ်။ 
 

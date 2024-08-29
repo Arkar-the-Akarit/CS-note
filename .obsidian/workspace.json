@@ -8,12 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3276e260c0d182cb",
+            "id": "ee03a02cc7b2ac3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/Week-1 C/psuedo code for mario-more.md",
+                "file": "CS50/Week-1 C/1-shorts/Loop in C.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "941e21ac9c99f4a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50/Week-1 C/1-shorts/Data Type.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abbf43dcdaaa6b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/HTML/Formatting Elements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#C",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Week-1 C/psuedo code for mario-more.md",
+                "file": "CS50/Week-1 C/1-shorts/Loop in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Week-1 C/psuedo code for mario-more.md",
+                "file": "CS50/Week-1 C/1-shorts/Loop in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Week-1 C/psuedo code for mario-more.md"
+                "file": "CS50/Week-1 C/1-shorts/Loop in C.md"
               }
             }
           }
@@ -148,54 +174,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3276e260c0d182cb",
+  "active": "ee03a02cc7b2ac3b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "CS50/Week-1 C/psuedo code for mario-more.md",
+    "CS50/Week-2 Arrary/2-Lecture/Compiling.md",
+    "CS50/Week-2 Arrary/2-Lecture",
+    "CS50/Week-2 Arrary",
+    "CS50/Week-1 C/1-imgs/variable.png",
+    "CS50/Week-1 C/1-imgs/unsigned integer.png",
+    "CS50/Week-1 C/1-imgs/two complement system.png",
+    "CS50/Week-1 C/1-imgs/loop recommedation.png",
+    "CS50/Week-1 C/1-imgs/logical OR.png",
+    "CS50/Week-1 C/1-imgs/logical AND.png",
+    "CS50/Week-1 C/1-imgs/logcial NOT.png",
+    "CS50/Week-1 C/1-imgs/integer range.png",
+    "CS50/Week-1 C/1-imgs/char range.png",
+    "န.md",
+    "CS50/Week-1 C/1-shorts/Loop in C.md",
+    "loop recommedation.png",
+    "CS50/Week-1 C/1-shorts/Data Type.md",
+    "CS50/Week-1 C/1-shorts/Conditional in C.md",
+    "CS50/Week-1 C/1-shorts/Operators in C.md",
+    "Web Development/HTML/Formatting Elements.md",
+    "Web Development/HTML/Html Elements.md",
+    "CS50/Week-1 C/1-Lecture/Truncation & Type Casting & Floating-point-imprecision.md",
+    "CS50/Week-1 C/1-Lecture/Integer-overflow.md",
+    "CS50/Week-1 C/1-Lecture/Const in C.md",
+    "အကြမ်း.md",
+    "CS50/Week-1 C/1-shorts",
+    "CS50/Week-1 C/1-section",
+    "CS50/Week-1 C/1-Lecture/How Programming Works.md",
+    "CS50/Week-1 C/1-Lecture/First Program in C.md",
+    "CS50/Week-1 C/1-Lecture",
+    "CS50/Week-1 C/တောင်Problem-set 1.md",
     "Git/Commands for CLI.md",
     "CS50/Week-1 C/Truncation & Type Casting & Floating-point-imprecision.md",
-    "double imprecision.png",
-    "float-point-imprecision.png",
     "CS50/Week-1 C/Integer-overflow.md",
-    "integer-overflow-eg2.png",
-    "integre-overflow-eg.png",
     "CS50/Week-0 Introduction/Introduction.md",
     "CS50/Week-1 C/First Program in C.md",
     "CS50/Week-1 C/truncation-",
     "CS50/Week-1 C/Const in C.md",
     "Git/Git Commands.md",
     "Git/Interface.md",
-    "error reading in C.png",
-    "CS50/Week-1 C/1-imgs/scratch-coordination.png",
-    "CS50/Week-1 C/1-imgs/parts of VSCode.png",
-    "CS50/Week-1 C/1-imgs/compiler.png",
     "CS50/Week-1 C/1-imgs",
     "CS50/Week-1 C/How Programming Works.md",
-    "parts of VSCode.png",
-    "compiler.png",
     "Git/git reset example by GPT.md",
     "CS50/Week-1 C",
     "Git/Connect GitHub & Commands.md",
-    "Web Development/HTML/Formatting Elements.md",
-    "Web Development/HTML/Form Elements.md",
-    "Web Development/HTML/Html Elements.md",
-    "Web Development/HTML/Generic Elements.md",
-    "Web Development/HTML/Html Symbols.md",
     "CS50/Week-0 Introduction/0-imgs",
-    "DSA + C/Data Strucutre & Algorithms/Symbolic Constant in C.md",
-    "DSA + C/Data Strucutre & Algorithms/color.md",
-    "DSA + C/C Programming/File Handling in C.md",
-    "DSA + C/C Programming/CSS for fast Access.md",
-    "DSA + C/C Programming/C Assignment/Assignment 6.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "CS50/Week-0/ASCII.md",
     "CS50/Week-0 Introduction",
-    "CS50",
-    "Git/fetchTest.txt",
-    "Git/PDF/Git and Github.pdf",
-    "Git/PDF",
-    "Git/New folder",
     "wrap-reverse.canvas"
   ]
 }
