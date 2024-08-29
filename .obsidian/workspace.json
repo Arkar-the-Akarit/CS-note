@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/Week-1 C/1-shorts/Loop in C.md",
+                "file": "CS50/Week-2 Arrary/2-Lecture/Debugging.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "941e21ac9c99f4a5",
+            "id": "4cf5819d3b55f7d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CS50/Week-1 C/1-shorts/Data Type.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abbf43dcdaaa6b20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/HTML/Formatting Elements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C",
+                "query": "tag:#pro-concepts",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ee67afb7d57ceee1",
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Week-1 C/1-shorts/Loop in C.md",
+                "file": "CS50/Week-2 Arrary/2-Lecture/Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Week-1 C/1-shorts/Loop in C.md",
+                "file": "CS50/Week-2 Arrary/2-Lecture/Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Week-1 C/1-shorts/Loop in C.md"
+                "file": "CS50/Week-2 Arrary/2-Lecture/Debugging.md"
               }
             }
           }
@@ -176,22 +164,24 @@
   },
   "active": "ee03a02cc7b2ac3b",
   "lastOpenFiles": [
+    "debugging 2.png",
+    "debugging 1.png",
+    "CS50/Week-1 C/1-shorts/Data Type.md",
+    "CS50/Week-2 Arrary/2-Lecture/Debugging.md",
+    "debugging with debug50.png",
     "CS50/Week-2 Arrary/2-Lecture/Compiling.md",
+    "linking.png",
+    "hello.c as machine code.png",
+    "hello.c in assembly.png",
+    "preprocessing.png",
+    "clang error.png",
+    "CS50/Week-1 C/1-shorts/Loop in C.md",
     "CS50/Week-2 Arrary/2-Lecture",
     "CS50/Week-2 Arrary",
     "CS50/Week-1 C/1-imgs/variable.png",
     "CS50/Week-1 C/1-imgs/unsigned integer.png",
     "CS50/Week-1 C/1-imgs/two complement system.png",
-    "CS50/Week-1 C/1-imgs/loop recommedation.png",
-    "CS50/Week-1 C/1-imgs/logical OR.png",
-    "CS50/Week-1 C/1-imgs/logical AND.png",
-    "CS50/Week-1 C/1-imgs/logcial NOT.png",
-    "CS50/Week-1 C/1-imgs/integer range.png",
-    "CS50/Week-1 C/1-imgs/char range.png",
     "န.md",
-    "CS50/Week-1 C/1-shorts/Loop in C.md",
-    "loop recommedation.png",
-    "CS50/Week-1 C/1-shorts/Data Type.md",
     "CS50/Week-1 C/1-shorts/Conditional in C.md",
     "CS50/Week-1 C/1-shorts/Operators in C.md",
     "Web Development/HTML/Formatting Elements.md",
@@ -217,9 +207,7 @@
     "Git/Interface.md",
     "CS50/Week-1 C/1-imgs",
     "CS50/Week-1 C/How Programming Works.md",
-    "Git/git reset example by GPT.md",
     "CS50/Week-1 C",
-    "Git/Connect GitHub & Commands.md",
     "CS50/Week-0 Introduction/0-imgs",
     "CS50/Week-0 Introduction",
     "wrap-reverse.canvas"
