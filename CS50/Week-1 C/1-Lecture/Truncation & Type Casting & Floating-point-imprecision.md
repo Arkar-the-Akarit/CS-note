@@ -31,6 +31,16 @@ printf("%f", z);
 e.g (float) x
 သဘောတရားက ဒီ variable က integer data type မှန်း သိပါတယ်။ ဒါပေမယ့် အခုတော့ ခဏလေးသူ့တန်ဖိုးကို float အဖြစ်ယူဆပြီး operations လုပ်ပေးပါ။ ဒီလိုtype-casting နဲ့ဆိုရင် division operation မှာ အဖြေက အပြည့်ကိန်းထွက်ရင်တောင် ဒသမနဲ့ပြပေးမယ်။
 
+integer value တွေထားထားပြီး စားတဲ့ချိန်မှာ <span style="color:rgb(32, 178, 179)">စားကိန်းကို ဒသမ</span> (e.g. 3.0)
+နဲ့ပေးလိုက်ရင်လည်း output value မှာ format %f နဲ့ float value ထုတ်လို့ရတယ်။ ``
+
+```
+int a = 5;
+printf("turn float %f\n", (a/2.0))
+
+```
+
+
 ```
 int a = 2;
 int b = 3;

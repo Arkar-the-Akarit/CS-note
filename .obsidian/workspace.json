@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/Debugging.md",
+                "file": "CS50/Week-1 C/1-Lecture/Const in C.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "4cf5819d3b55f7d3",
+            "id": "44881db268597fe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pro-concepts",
+                "query": "const",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,12 +79,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ee67afb7d57ceee1",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/Debugging.md",
+                "file": "CS50/Week-1 C/1-Lecture/Const in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/Debugging.md",
+                "file": "CS50/Week-1 C/1-Lecture/Const in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/Debugging.md"
+                "file": "CS50/Week-1 C/1-Lecture/Const in C.md"
               }
             }
           }
@@ -164,29 +164,29 @@
   },
   "active": "ee03a02cc7b2ac3b",
   "lastOpenFiles": [
+    "CS50/Week-2 Arrary/2-Lecture/Memory & Array.md",
+    "CS50/Week-1 C/1-shorts/Data Type.md",
+    "CS50/Week-1 C/1-Lecture/Truncation & Type Casting & Floating-point-imprecision.md",
+    "score memory.png",
+    "integer memory.png",
+    "metamorphic memory.png",
+    "memory in pc.png",
+    "CS50/Week-2 Arrary/2-Lecture/Debugging.md",
     "debugging 2.png",
     "debugging 1.png",
-    "CS50/Week-1 C/1-shorts/Data Type.md",
-    "CS50/Week-2 Arrary/2-Lecture/Debugging.md",
     "debugging with debug50.png",
     "CS50/Week-2 Arrary/2-Lecture/Compiling.md",
     "linking.png",
     "hello.c as machine code.png",
     "hello.c in assembly.png",
-    "preprocessing.png",
-    "clang error.png",
     "CS50/Week-1 C/1-shorts/Loop in C.md",
     "CS50/Week-2 Arrary/2-Lecture",
     "CS50/Week-2 Arrary",
-    "CS50/Week-1 C/1-imgs/variable.png",
-    "CS50/Week-1 C/1-imgs/unsigned integer.png",
-    "CS50/Week-1 C/1-imgs/two complement system.png",
     "န.md",
     "CS50/Week-1 C/1-shorts/Conditional in C.md",
     "CS50/Week-1 C/1-shorts/Operators in C.md",
     "Web Development/HTML/Formatting Elements.md",
     "Web Development/HTML/Html Elements.md",
-    "CS50/Week-1 C/1-Lecture/Truncation & Type Casting & Floating-point-imprecision.md",
     "CS50/Week-1 C/1-Lecture/Integer-overflow.md",
     "CS50/Week-1 C/1-Lecture/Const in C.md",
     "အကြမ်း.md",
@@ -206,7 +206,6 @@
     "Git/Git Commands.md",
     "Git/Interface.md",
     "CS50/Week-1 C/1-imgs",
-    "CS50/Week-1 C/How Programming Works.md",
     "CS50/Week-1 C",
     "CS50/Week-0 Introduction/0-imgs",
     "CS50/Week-0 Introduction",

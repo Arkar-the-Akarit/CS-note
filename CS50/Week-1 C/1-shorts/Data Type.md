@@ -5,7 +5,7 @@ variable name တစ်ခုပေးပြီး variable တစ်ခုမ�
 ###### int 
 
 - integer‌ တွကို သုံးဖို့ သိမ်းတဲ့ variable
-- take 4 bytes (32 bits) of memory
+- take <mark style="background: #ABF7F7A6;">4 bytes</mark> (32 bits) of memory
 - 32 bits ပမာဏရှိတဲ့ information တွေကို store လုပ်နိုင်
 - 32 bits range ကို positive integer နဲ့ negative integer သိမ်းဖို့ တစ်ဝက်ဆီပိုင်းလိုက်တယ်။ (each get roughly 2 billion numbers)
 - ![[integer range.png]] positive int ဘက်မှာ -1 နှုတ်ထားတာက သုညအတွက် နေရာယူလို့
@@ -23,19 +23,19 @@ Unsigned Integer
 ###### char
 
 - single character ကို store ဖို့သုံး
-- 1 byte (8bits) worth of memory 
+- <mark style="background: #ABF7F7A6;">1 byte</mark> (8bits) worth of memory 
 - ![[char range.png]]
 
 ###### float
 
 - floating point value i.e. real numbers တွေကို store
-- 4 bytes (32bits) of memory
+- <mark style="background: #ABF7F7A6;">4 bytes</mark> (32bits) of memory
 - due to complication in describing the total length float, there is floating point imprecision
 
 ###### double
 
 - double precision in storing float point 
-- 8 bytes (64 bits) of memory
+- <mark style="background: #ABF7F7A6;">8 bytes</mark> (64 bits) of memory
 
 ###### void
 
@@ -50,6 +50,7 @@ printf() has void return type. printf ထဲထည့်လိုက်လို
 
 ###### bool
 
+- <mark style="background: #ABF7F7A6;">1 byte</mark> (4 bits) of memory
 - not include in five built-in data type of C
 - include in cs50.h
 - can store only two values: <mark style="background: #BBFABBA6;">true</mark> , <mark style="background: #ABF7F7A6;">false</mark> 
