@@ -1,6 +1,8 @@
 
 The shell is Git Bash
 
+command နောက်မှာ <mark style="background: #BBFABBA6;"> - </mark> နဲ့ရေးတာတိုင်းကို <span style="color:rgb(146, 208, 80)">options</span> or <span style="color:rgb(146, 208, 80)">flags</span> or <span style="color:rgb(146, 208, 80)">switches</span> လို့ခေါ်တယ်။ သူတို့က command ကို <mark style="background: #ADCCFFA6;">configuration</mark> လုပ်ပေးဖို့သုံးတယ်/ လုပ်ပေးနိုင်တယ်။ 
+
 <mark style="background: #ABF7F7A6;">ls </mark> : ဒါက လက်ရှိရောက်နေတဲ့ directory အောက်က files/directories တွေကိုပြပေး
 	<mark style="background: #FFF3A3A6;">-a</mark> option က hidden files/directories တွေပါ အကုန်ပြပေး
 

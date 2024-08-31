@@ -173,3 +173,5 @@ branch တစ်ခုမှာ လုပ်စရာရှိတာလုပ်
 အရင်ဆုံး ကိုယ် <span style="color:rgb(146, 208, 80)">သွားပေါင်းမယ့် branch ဆီ</span>ကို switch/checkout command နဲ့ သွား။ အဲ့ branch ထဲရောက်ပြီဆိုမှ  
 
 syntax --> <mark style="background: #FFF3A3A6;">git merge feature-branchName</mark>
+
+

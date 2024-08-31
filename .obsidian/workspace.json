@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c027429e38a17bda",
+        "id": "44c4746fe09cf77f",
         "type": "tabs",
         "children": [
           {
-            "id": "7315ccdd281eab68",
+            "id": "a38166f4fb3ff53f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/String.md",
+                "file": "CS50/Week-2 Arrary/2-Lecture/Cryptography.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "const",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ee67afb7d57ceee1",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/String.md",
+                "file": "CS50/Week-2 Arrary/2-Lecture/Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/String.md",
+                "file": "CS50/Week-2 Arrary/2-Lecture/Cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/String.md"
+                "file": "CS50/Week-2 Arrary/2-Lecture/Cryptography.md"
               }
             }
           }
@@ -149,32 +148,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7315ccdd281eab68",
+  "active": "a38166f4fb3ff53f",
   "lastOpenFiles": [
-    "CS50/Week-2 Arrary/2-Lecture/Memory & Array.md",
-    "CS50/Week-2 Arrary/2-Lecture/String.md",
-    "string array 2.png",
-    "string array.png",
-    "null terminator in string.png",
+    "Git/Git Commands.md",
+    "CS50/Week-2 Arrary/2-Lecture/Cryptography.md",
+    "CS50/Week-2 Arrary/2-Lecture/Exit Status.md",
+    "Pasted image 20240831211330.png",
+    "Untitled.md",
+    "CS50/Week-2 Arrary/2-Lecture/ASCII Art.md",
+    "CS50/Week-2 Arrary/2-Lecture/Command Line Arguments.md",
+    "cowsay options.png",
+    "Git/Commands for CLI.md",
+    "cowsay.png",
+    "hi as string array.png",
+    "CS50/Week-2 Arrary/2-imgs/debugging 2.png",
+    "CS50/Week-2 Arrary/2-imgs/debugging 1.png",
+    "CS50/Week-2 Arrary/2-imgs/clang error.png",
+    "CS50/Week-2 Arrary/2-imgs",
     "Pasted image 20240831111140.png",
+    "CS50/Week-2 Arrary/2-Lecture/ctype - header.md",
+    "CS50/Week-0 Introduction/ASCII Chart.md",
+    "CS50/Week-0 Introduction/0-imgs/ASCII Chart.png",
+    "CS50/Week-2 Arrary/2-Lecture/String.md",
+    "CS50/Week-1 C/1-shorts/Loop in C.md",
+    "CS50/Week-2 Arrary/2-Lecture/Memory & Array.md",
+    "string array 2.png",
     "Cool Cool Window Shortcut/Cool cool window shortcut.md",
     "Cool Cool Window Shortcut",
-    "hi as string array.png",
-    "hi as binary digit.png",
-    "hi as char in memory.png",
     "CS50/Week-2 Arrary/2-Lecture/Debugging.md",
     "CS50/Week-1 C/1-shorts/Data Type.md",
     "Git/Connect GitHub & Commands.md",
     "Git/Configuration in Git.md",
     "Git/git reset example by GPT.md",
-    "Git/Git Commands.md",
     "CS50/Week-1 C/1-Lecture/Const in C.md",
     "CS50/Week-1 C/1-Lecture/Truncation & Type Casting & Floating-point-imprecision.md",
-    "score memory.png",
-    "integer memory.png",
-    "metamorphic memory.png",
     "CS50/Week-2 Arrary/2-Lecture/Compiling.md",
-    "CS50/Week-1 C/1-shorts/Loop in C.md",
     "CS50/Week-2 Arrary/2-Lecture",
     "CS50/Week-2 Arrary",
     "န.md",
@@ -182,20 +190,12 @@
     "CS50/Week-1 C/1-shorts/Operators in C.md",
     "Web Development/HTML/Formatting Elements.md",
     "Web Development/HTML/Html Elements.md",
-    "CS50/Week-1 C/1-Lecture/Integer-overflow.md",
-    "အကြမ်း.md",
     "CS50/Week-1 C/1-shorts",
     "CS50/Week-1 C/1-section",
-    "CS50/Week-1 C/1-Lecture/How Programming Works.md",
-    "CS50/Week-1 C/1-Lecture/First Program in C.md",
     "CS50/Week-1 C/1-Lecture",
-    "CS50/Week-1 C/တောင်Problem-set 1.md",
-    "Git/Commands for CLI.md",
-    "CS50/Week-1 C/Truncation & Type Casting & Floating-point-imprecision.md",
     "CS50/Week-1 C/truncation-",
     "CS50/Week-1 C/1-imgs",
     "CS50/Week-1 C",
-    "CS50/Week-0 Introduction/0-imgs",
     "wrap-reverse.canvas"
   ]
 }

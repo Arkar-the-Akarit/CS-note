@@ -86,8 +86,7 @@ printf("%c %c %c %i\n" words[1][0], words[1][1], words[1][2], words[1][3] )
 
 <mark style="background: #FF5582A6;">Important</mark> - အကယ်လို့ words\[0]\[4] ဆိုပြီး %i နဲ့ထုတ်ချကြည့်လိုက်ရင် B value ဖြစ်တဲ့ 66 ထွက်လာတယ်။ အဲ့လိုက ရလာတာမှန်ပေမယ့် ဂဏန်းများလာရင်/တစ်ခါတလေကျရင် error တက်နိုင်တယ်။ မလုပ်ပါနဲ့ သူ့ index နဲ့ သူသုံး
 
-##### String_length
-
+##### string.h
 string တစ်ခုရဲ့ length ကိုသိရဖို့ C မှာ built-in feature မပါပေမယ့် ကိုယ်တိုင်function တစ်ခု‌ရေးလို့ရတယ်။
 
 ```
@@ -114,3 +113,23 @@ string = char array , အဲ့တာကြောင့် sရဲ့ index s[n]
 
 
 ``` 
+
+ဒါပေမယ့် C မှာ အဲ့လိုတကူးတကကြီးရေးနေစရာမလိုသလို string အတွက် ဖန်တီးပေးထားတဲ့ "string.h" ဆိုတဲ့ header file ရှိတယ်။
+
+အဲ့ထဲမှာ string length ကို return ပြန်ပေးတဲ့ <mark style="background: #FFF3A3A6;">strlen()</mark> ဆိုတဲ့ function တစ်ခုပါတယ်။ int return ပြန်ပေးတယ်။
+
+```
+string name = "David";
+int length = strlen(name);
+
+```
+
+#C #C-loop 
+<mark style="background: #BBFABBA6;">trick</mark> --> for loop မှာ initialization လုပ်ရင်လေ နှစ်ခုနဲ့အထက်လုပ်လည်း ရတယ်။ 
+```
+for (int i = 0, n = strlen(name); i < n; n++ )
+
+```
+
+int i initialization နဲ့ n ကြားမှာ ခြားထားတာ <mark style="background: #ABF7F7A6;">coma (,)</mark> ပါ။ ဒီလိုမျိုး <span style="color:rgb(0, 176, 240)">initialization part မှာ တစ်ခါတည်းကြေညာလိုက်တာမျိုး</span> or '<span style="color:rgb(0, 176, 240)">for' loop အပြင်မှာ variable အနေနဲ့ ကြေညာတာ</span>မျိုးက 
+`for (int i =0; i < strlen(name); i++)` လို့ကြေညာတာထက် ပိုကောင်းတယ်။ ဘာလို့ဆို for loop ပတ်တိုင်း boolean အခြေအနေဖြစ်တဲ့ i က strlen() ထက် ငယ်သေးလားဆိုတာကို လာစစ်ဖို့ strlen() ကို ထပ်ခါထပ်ခါ ပြန်ပြန် run နေရမှာမလို့။
