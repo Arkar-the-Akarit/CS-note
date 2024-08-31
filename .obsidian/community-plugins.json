@@ -1,5 +1,6 @@
 [
   "highlightr-plugin",
   "colored-text",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "typewriter-mode"
 ]

@@ -66,8 +66,40 @@ array[2] = 55;
 
 2. လိုချင်တဲ့ array အခန်း/index ကြေညာတဲ့အခါမှာကျ တစ်ခန်းဆို တစ်, နှစ်ခန်းဆို နှစ် စသည်ဖြင့် natural number (starts from one, no zero) နဲ့ကြေညာပြီး indexတွေကို access လုပ်ရင်ကျ whole number (starts from zero) နဲ့သွားလုပ်တယ်။ အလွယ်ပြောရရင် array\[3] ဆိုပြီး ကြေညာလိုက်ရင် သူ့ထဲက index တွေက 0,1,2 (total 3) ဖြစ်မယ်။ -> ကြေညာရင် လိုတဲ့နံပါတ်အတိုင်း ကြေညာ, အခန်းတွေကတော့ 0 ကစ
 
+function <span style="color:rgb(32, 178, 179)">‌arguments</span> မှာ array ကိုထည့်ရင် <span style="color:rgb(32, 178, 179)">length ထည့်ပေးစရာမလို</span>ဘူး။
+e.g. void function (int array\[]); 
 
+program တစ်ခုရှိတယ်ဆိုပါတော့
+```
+int main(void) 
+{
+	char c1 = 'H';
+	char c2 = 'I';
+	char c3 = '!';
 
+	printf("%c%c%c\n", c1, c2, c3);
+}
+
+//output be HI!
+
+```
+
+memory ထဲမှာ character ဖြစ်စေ, integer ဖြစ်စေ binary digits တွေနဲ့ဘဲ store လုပ်ထားတာဖြစ်တဲ့အတွက်၊ output မှာ <span style="color:rgb(255, 155, 0)">format ကို %i</span> နဲ့ ထုတ်ကြည့်လို့လည်းရတယ်။
+```
+printf("%i %i %i \n", c1,c2,c3)l;
+
+//output 72 73 33
+```
+
+အပေါ်မှာပြောခဲ့သလိုဘဲ memory ထဲမှာ store လုပ်တာက အပေါ်ယံအမြင်မှာ ဒီလိုပေါ့
+
+![[hi as char in memory.png]]
+
+တကယ်တမ်း low level အထိကြည့်မယ်ဆိုရင် ဒီလို
+
+![[hi as binary digit.png]]
+
+binary digit တွေနဲ့ store လုပ်ထားတာဖြစ်လို့ ကိုယ်သုံးလိုက် <span style="color:rgb(146, 208, 80)">format ပေါ်မူတည်</span>ပြီး output ထွက်လာမှာဘဲ 
 
 
 
