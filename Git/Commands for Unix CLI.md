@@ -76,6 +76,12 @@ e.g. sudo chmode a+rx /usr/bin/blah
 	- > for content of diff2.txt
 	- \\ no newline at end of file ဆိုတာက file က text file တစ်ခုမှာ ရှိရမယ့် newline character (/n) ဆိုတာမျိုးမပါဘူးလို့ဆို့
 
+<mark style="background: #ABF7F7A6;">du </mark> : display disk usage of files & directories in a summarized and human readable format
+	- <mark style="background: #D2B3FFA6;">-s</mark> option for summarized, file တစ်ခုချင်းစီ/ subdirectories အတွက်မပြတော့ဘဲနဲ့ current directory တစ်ခုတည်းစာအတွက် အတိုချုံ့ပြီးပြ
+	- <mark style="background: #D2B3FFA6;">-h</mark> option stands for 'human readable', file size ကို bytes နဲ့ မပြတော့ဘဲနဲ့ (kb, mb, gb) စသည်ဖြင့် ပိုဖတ်ရလွယ်တာနဲ့ပြ
+	- <mark style="background: #FFF3A3A6;">du -sh</mark> လို့ အသုံးများ
+	
+ 
 <mark style="background: #ADCCFFA6;">Up-arrow (↑)</mark> : သုံးလိုက်ရင် git bash / linux မှာ အပေါ်က ရိုက်ခဲ့တဲ့ command‌ တွေကို auto ပြန်ရိုက်ပေးတယ်။ ပထမဆုံးတစ်ချက်မှာ ရှေ့က command ပေါ််မယ်။ ထပ်နှိပ်လေလေ အပေါ််ကို တက်လေလေ။
 	 အဲ့လို အပေါ်ရောက်နေတာက အောက်က command ကို ဆင်းလာချင်ရင် <mark style="background: #ABF7F7A6;">Down-arrow(↓)</mark> ကို သုံးလို့ရ
 

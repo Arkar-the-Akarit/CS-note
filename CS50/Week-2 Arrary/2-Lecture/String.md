@@ -53,6 +53,9 @@ printf("%i %i %i %i\n", s[0], s[1], s[2], s[3]);
 
 <mark style="background: #BBFABBA6;">null terminator / null character</mark> -> <mark style="background: #CACFD9A6;">\0</mark> or <mark style="background: #CACFD9A6;">NUL</mark>
 
+<mark style="background: #FF5582A6;">Caution</mark> --->  null terminator ကို များသောအားဖြင့် <span style="color:rgb(0, 176, 240)">strings</span> (char arrays meant to treated as text) မှာဘဲ အသုံးများတယ်။ ပြီးတော့ ကိုယ်က <span style="color:rgb(255, 155, 0)">double quote</span> နဲ့ ("Hello") ဆိုပြီး ကြေညာလိုက်မှ <span style="color:rgb(255, 155, 0)">null terminator က auto </span>ပါလာတယ်။ 
+အကယ်လို သာမန် fixed size array တစ်ခုကြေညာတယ်ဆိုရင် (e.g. char array) မျိုးဆိုရင် <span style="color:rgb(32, 178, 179)">ကိုယ်တိုင် '\0' ဆိုပြီး index တစ်ခန်းယူမထည့်ပေးသေးသရွေ့ </span>မပါဘူး။ အကယ်လို့ ကိုယ်က char array ကို <span style="color:rgb(255, 155, 0)">typecast </span>လုပ်တာဖြစ်ဖြစ်, <span style="color:rgb(255, 155, 0)">printf တို့ strlen တို့</span> သုံးမယ်ဆိုရင်တော့ <mark style="background: #BBFABBA6;">ပါဖို့လိုတယ်။</mark> မပါလဲအလုပ်လုပ်ကောင်းလုပ်နိုင်ပေမယ့် အနောက်က မဆိုင်တဲ့ memory တွကိုပါ program က ဖတ်နိုင်ချေတအားများ 
+
 ###### String Array / Two dimensional Array
 
 ```

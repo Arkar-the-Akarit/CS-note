@@ -54,6 +54,7 @@ printf() has void return type. printf ထဲထည့်လိုက်လို
 - not include in five built-in data type of C
 - include in cs50.h
 - can store only two values: <mark style="background: #BBFABBA6;">true</mark> , <mark style="background: #ABF7F7A6;">false</mark> 
+- <span style="color:rgb(0, 176, 240)">Zero (0)</span> represents <span style="color:rgb(0, 176, 240)">false</span>, other <span style="color:rgb(255, 155, 0)">non-zero digits</span> represents <span style="color:rgb(255, 155, 0)">true</span>
 
 ###### string
 
