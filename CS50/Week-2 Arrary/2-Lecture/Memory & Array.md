@@ -38,6 +38,8 @@ score value တွေကို အဲ့လိုပေးလိုက်မယ�
 
 #### Array
 
+[[Arrays|Shorts - Arrays]] ကိုလည်း ကြည့်ပါ။
+
 array ဆိုတာက data တွေကို လွယ်'ကူ'နဲ့ access လုပ်နိုင်အောင် memory ထဲမှာ အစဥ်လိုက် (back to back) စဥ်ပေးတဲ့ နည်းတစ်မျိုးဘဲ။
 
 array ကို ‌declare လုပ်ရင် ကိုယ်လိုချင်တဲ့ length အတိုင်းကြေညာပေးရတယ်။ ကိုယ်က သုံးနေရာလိုချင်ရင် သုံး, လေးနေရာလိုချင်ရင် လေး
@@ -68,6 +70,13 @@ array[2] = 55;
 
 function <span style="color:rgb(32, 178, 179)">‌arguments</span> မှာ array ကိုထည့်ရင် <span style="color:rgb(32, 178, 179)">length ထည့်ပေးစရာမလို</span>ဘူး။
 e.g. void function (int array\[]); 
+
+argument <span style="color:rgb(146, 208, 80)">pass</span> လုပ်ရင်ကျ <span style="color:rgb(146, 208, 80)">နာမည် ဆိုရပြီ</span> curly <span style="color:rgb(220, 20, 60)">bracket မလို</span>
+e.g. function(arr);
+
+<mark style="background: #BBFABBA6;">same values to all index initialization </mark> : index ခန်းအားလုံးထဲမှာ တူညီတဲ့value တွေဘဲထားချင်တာဆိုရင် ဒီလို initialize လုပ်လို့ရတယ်။
+e.g. bool index\[26] = {false}  -- every index is filled with false
+	 int one\[30]  = { 1 } -- all index has value one
 
 program တစ်ခုရှိတယ်ဆိုပါတော့
 ```

@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/Command Line Arguments.md",
+                "file": "CS50/Week-2 Arrary/2-Shorts/Arrays.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c4b5a3ce93ecd67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50/Week-2 Arrary/2-Shorts/Variables & Scope.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e73fae023de4e09b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50/Week-1 C/1-shorts/Operators in C.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1a580524881f10f6",
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/Command Line Arguments.md",
+                "file": "CS50/Week-2 Arrary/2-Shorts/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/Command Line Arguments.md",
+                "file": "CS50/Week-2 Arrary/2-Shorts/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Lecture/Command Line Arguments.md"
+                "file": "CS50/Week-2 Arrary/2-Shorts/Arrays.md"
               }
             }
           }
@@ -149,16 +176,24 @@
   },
   "active": "c397a0ed66a9ae9b",
   "lastOpenFiles": [
+    "CS50/Week-2 Arrary/2-Shorts/Variables & Scope.md",
+    "CS50/Week-2 Arrary/2-Shorts/Arrays.md",
+    "CS50/Week-2 Arrary/2-Lecture/String.md",
+    "CS50/Week-1 C/1-shorts/Operators in C.md",
+    "Untitled.md",
+    "CS50/Week-2 Arrary/2-Lecture/Memory & Array.md",
+    "local variables.png",
+    "CS50/Week-2 Arrary/2-Shorts/Functions.md",
+    "CS50/Week-2 Arrary/2-Shorts",
     "Git/Commands for Unix CLI.md",
+    "CS50/Week-2 Arrary/2-Lecture/Command Line Arguments.md",
     "CS50/Week-1 C/1-shorts/Data Type.md",
     "CS50/Week-1 C/1-shorts/Loop in C.md",
     "CS50/Week-2 Arrary/2-Lecture/Exit Status.md",
     "CS50/Week-2 Arrary/2-Lecture/ASCII Art.md",
     "CS50/Week-2 Arrary/2-Lecture/ctype - header.md",
-    "CS50/Week-2 Arrary/2-Lecture/Memory & Array.md",
     "CS50/Week-0 Introduction/ASCII Chart.md",
     "Cool Cool Window Shortcut/Cool cool window shortcut.md",
-    "CS50/Week-2 Arrary/2-Lecture/String.md",
     "အကြမ်း.md",
     "Web Development/HTML/Formatting Elements.md",
     "Web Development/HTML/Html Symbols.md",

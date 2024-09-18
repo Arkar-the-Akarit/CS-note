@@ -127,6 +127,13 @@ int length = strlen(name);
 
 ```
 
+C မှာ string နှစ်ခု <span style="color:rgb(0, 176, 240)">တူမတူ နှိုင်းယှဥ်ချင်ရင်</span> Equality operator (=\=) <span style="color:rgb(220, 20, 60)">သုံးလို့ မရ</span>။
+
+<mark style="background: #FFF3A3A6;">strcmp(string1, string2)</mark> function ကို သုံးရတယ်။
+- တူရင် Zero(0) return;
+- string 1 က string 2 ထက် ငယ်နေရင် negative value return
+- string 1 က string 2 ထက် ကြီးနေရင် positive value return
+
 #C #C-loop 
 <mark style="background: #BBFABBA6;">trick</mark> --> for loop မှာ initialization လုပ်ရင်လေ နှစ်ခုနဲ့အထက်လုပ်လည်း ရတယ်။ 
 ```
