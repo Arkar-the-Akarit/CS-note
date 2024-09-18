@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e5a06f06c04fc74",
+        "id": "b2b451883292ec1c",
         "type": "tabs",
         "children": [
           {
-            "id": "c397a0ed66a9ae9b",
+            "id": "437cc756e4d3eba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Shorts/Arrays.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c4b5a3ce93ecd67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50/Week-2 Arrary/2-Shorts/Variables & Scope.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e73fae023de4e09b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50/Week-1 C/1-shorts/Operators in C.md",
+                "file": "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Shorts/Arrays.md",
+                "file": "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Shorts/Arrays.md",
+                "file": "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Week-2 Arrary/2-Shorts/Arrays.md"
+                "file": "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md"
               }
             }
           }
@@ -174,30 +148,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c397a0ed66a9ae9b",
+  "active": "437cc756e4d3eba2",
   "lastOpenFiles": [
+    "CS50/Week-3 DSA/3-Lecture/Running Time - Big O Notation.md",
+    "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md",
+    "mmmmmmmmmmmmmmmmmmmmmm.md",
+    "CS50/Week-3 DSA/3-Lecture/Binary Search.md",
+    "CS50/Week-3 DSA/3-Lecture/Logarithm.md",
+    "CS50/Week-3 DSA/3-Lecture/Linear Search.md",
+    "Untitled 3.md",
+    "CS50/Week-1 C/1-shorts/Loop in C.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "big O notation.png",
+    "linear search black box.png",
+    "locker array.png",
+    "CS50/Week-3 DSA/3-Shorts",
+    "CS50/Week-3 DSA/3-Lecture",
+    "CS50/Week-3 DSA/3-imgs",
     "CS50/Week-2 Arrary/2-Shorts/Variables & Scope.md",
+    "CS50/Week-3 DSA",
+    "local variables.png",
     "CS50/Week-2 Arrary/2-Shorts/Arrays.md",
     "CS50/Week-2 Arrary/2-Lecture/String.md",
     "CS50/Week-1 C/1-shorts/Operators in C.md",
-    "Untitled.md",
     "CS50/Week-2 Arrary/2-Lecture/Memory & Array.md",
-    "local variables.png",
     "CS50/Week-2 Arrary/2-Shorts/Functions.md",
     "CS50/Week-2 Arrary/2-Shorts",
     "Git/Commands for Unix CLI.md",
     "CS50/Week-2 Arrary/2-Lecture/Command Line Arguments.md",
     "CS50/Week-1 C/1-shorts/Data Type.md",
-    "CS50/Week-1 C/1-shorts/Loop in C.md",
     "CS50/Week-2 Arrary/2-Lecture/Exit Status.md",
     "CS50/Week-2 Arrary/2-Lecture/ASCII Art.md",
     "CS50/Week-2 Arrary/2-Lecture/ctype - header.md",
     "CS50/Week-0 Introduction/ASCII Chart.md",
     "Cool Cool Window Shortcut/Cool cool window shortcut.md",
     "အကြမ်း.md",
-    "Web Development/HTML/Formatting Elements.md",
-    "Web Development/HTML/Html Symbols.md",
-    "Web Development/HTML/List Elements.md",
-    "Web Development/HTML/Reference Element.md"
+    "Web Development/HTML/Formatting Elements.md"
   ]
 }
