@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md",
+                "file": "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md",
+                "file": "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md",
+                "file": "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md"
+                "file": "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "437cc756e4d3eba2",
   "lastOpenFiles": [
-    "CS50/Week-3 DSA/3-Lecture/Running Time - Big O Notation.md",
+    "CS50/Week-3 DSA/3-Lecture/Selection Sort.md",
+    "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md",
     "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md",
+    "CS50/Week-3 DSA/3-Lecture/Running Time - Big O Notation.md",
     "mmmmmmmmmmmmmmmmmmmmmm.md",
     "CS50/Week-3 DSA/3-Lecture/Binary Search.md",
     "CS50/Week-3 DSA/3-Lecture/Logarithm.md",
@@ -182,8 +184,6 @@
     "CS50/Week-2 Arrary/2-Lecture/ASCII Art.md",
     "CS50/Week-2 Arrary/2-Lecture/ctype - header.md",
     "CS50/Week-0 Introduction/ASCII Chart.md",
-    "Cool Cool Window Shortcut/Cool cool window shortcut.md",
-    "အကြမ်း.md",
-    "Web Development/HTML/Formatting Elements.md"
+    "Cool Cool Window Shortcut/Cool cool window shortcut.md"
   ]
 }
