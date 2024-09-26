@@ -8,15 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "437cc756e4d3eba2",
+            "id": "0cf14249155385ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "CS50/Week-3 DSA/3-imgs/merge sort Big O.png"
               }
             }
           }
@@ -70,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1a580524881f10f6",
@@ -87,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md",
+                "file": "CS50/Week-3 DSA/3-imgs/merge sort Big O.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md",
+                "file": "CS50/Week-3 DSA/3-imgs/merge sort Big O.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md"
+                "file": "CS50/Week-3 DSA/3-imgs/merge sort Big O.png"
               }
             }
           }
@@ -148,14 +144,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "437cc756e4d3eba2",
+  "active": "9900d5c694c05b7b",
   "lastOpenFiles": [
-    "CS50/Week-3 DSA/3-Lecture/Selection Sort.md",
+    "sketch.md",
+    "CS50/Week-3 DSA/3-Lecture/Merge Sort.md",
+    "CS50/Week-3 DSA/3-imgs/merge sort Big O.png",
+    "CS50/Week-3 DSA/3-imgs/visualization of merge sort.png",
+    "CS50/Week-3 DSA/3-imgs/visualization of merge sort.png",
+    "CS50/Week-3 DSA/3-Lecture/Binary Search.md",
+    "CS50/Week-3 DSA/3-Lecture/Recursion.md",
     "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md",
+    "CS50/Week-3 DSA/3-Lecture/Selection Sort.md",
     "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md",
     "CS50/Week-3 DSA/3-Lecture/Running Time - Big O Notation.md",
     "mmmmmmmmmmmmmmmmmmmmmm.md",
-    "CS50/Week-3 DSA/3-Lecture/Binary Search.md",
     "CS50/Week-3 DSA/3-Lecture/Logarithm.md",
     "CS50/Week-3 DSA/3-Lecture/Linear Search.md",
     "Untitled 3.md",
@@ -181,9 +183,6 @@
     "CS50/Week-2 Arrary/2-Lecture/Command Line Arguments.md",
     "CS50/Week-1 C/1-shorts/Data Type.md",
     "CS50/Week-2 Arrary/2-Lecture/Exit Status.md",
-    "CS50/Week-2 Arrary/2-Lecture/ASCII Art.md",
-    "CS50/Week-2 Arrary/2-Lecture/ctype - header.md",
-    "CS50/Week-0 Introduction/ASCII Chart.md",
-    "Cool Cool Window Shortcut/Cool cool window shortcut.md"
+    "CS50/Week-2 Arrary/2-Lecture/ASCII Art.md"
   ]
 }

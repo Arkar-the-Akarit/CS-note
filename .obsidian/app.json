@@ -4,7 +4,7 @@
   "defaultViewMode": "source",
   "focusNewTab": false,
   "showInlineTitle": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "promptDelete": false
