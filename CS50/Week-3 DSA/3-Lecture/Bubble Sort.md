@@ -6,7 +6,7 @@ bubble sort ဆိုတာက
 - အဲ့လိုနဲ့ swap သွားမယ်။
 
 ```
-psudocode
+psuedocode
 
 Repeat n-1 times
 	For i from 0 to n-2

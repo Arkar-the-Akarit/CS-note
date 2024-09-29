@@ -11,9 +11,12 @@
             "id": "0cf14249155385ef",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CS50/Week-3 DSA/3-imgs/merge sort Big O.png"
+                "file": "CS50/Week-1 C/1-shorts/Data Type.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50/Week-3 DSA/3-imgs/merge sort Big O.png",
+                "file": "CS50/Week-1 C/1-shorts/Data Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50/Week-3 DSA/3-imgs/merge sort Big O.png",
+                "file": "CS50/Week-1 C/1-shorts/Data Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50/Week-3 DSA/3-imgs/merge sort Big O.png"
+                "file": "CS50/Week-1 C/1-shorts/Data Type.md"
               }
             }
           }
@@ -144,16 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9900d5c694c05b7b",
+  "active": "0cf14249155385ef",
   "lastOpenFiles": [
+    "CS50/Week-1 C/1-Lecture/Truncation & Type Casting & Floating-point-imprecision.md",
+    "CS50/Week-1 C/1-Lecture/Integer-overflow.md",
+    "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md",
+    "CS50/Week-3 DSA/3-imgs/merge sort Big O.png",
     "sketch.md",
     "CS50/Week-3 DSA/3-Lecture/Merge Sort.md",
-    "CS50/Week-3 DSA/3-imgs/merge sort Big O.png",
     "CS50/Week-3 DSA/3-imgs/visualization of merge sort.png",
     "CS50/Week-3 DSA/3-imgs/visualization of merge sort.png",
     "CS50/Week-3 DSA/3-Lecture/Binary Search.md",
     "CS50/Week-3 DSA/3-Lecture/Recursion.md",
-    "CS50/Week-3 DSA/3-Lecture/Bubble Sort.md",
     "CS50/Week-3 DSA/3-Lecture/Selection Sort.md",
     "CS50/Week-3 DSA/3-Lecture/Struct & Typedef.md",
     "CS50/Week-3 DSA/3-Lecture/Running Time - Big O Notation.md",
@@ -181,8 +186,6 @@
     "CS50/Week-2 Arrary/2-Shorts",
     "Git/Commands for Unix CLI.md",
     "CS50/Week-2 Arrary/2-Lecture/Command Line Arguments.md",
-    "CS50/Week-1 C/1-shorts/Data Type.md",
-    "CS50/Week-2 Arrary/2-Lecture/Exit Status.md",
-    "CS50/Week-2 Arrary/2-Lecture/ASCII Art.md"
+    "CS50/Week-1 C/1-shorts/Data Type.md"
   ]
 }
