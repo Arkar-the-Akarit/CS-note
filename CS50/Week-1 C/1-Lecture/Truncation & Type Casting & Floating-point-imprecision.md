@@ -8,7 +8,7 @@ printf("%i\n", x/y); //output Zero only
 ```
 
 ဆိုရင် output က zero တစ်လုံးထဲထွက်လာမယ်။ 
-ဒါဆို format code ကို %i ကနေ decimal point ကို လက်ခံမယ့် %f (for float & double) ကို ဒီု
+ဒါဆို format code ကို %i ကနေ decimal point ကို လက်ခံမယ့် %f (for float & double) အဖြစ် 
 
 ```
 int x = 1;
@@ -70,7 +70,8 @@ printf("%.30f \n", x/y);
 
 output : ![[float-point-imprecision.png]]
 ဒီလိုကြီးထွက်လာတယ်။ တကယ်က 0.3333 အဆုံးမရှိဖြစ်ရမယ်။
-float မဟုတ်ဘဲ double သုံးလိုက်ရင်လည်း (format code of double is also %f) output က ![[double imprecision.png]]
+float မဟုတ်ဘဲ double သုံးလိုက်ရင်လည်း (format code of double is also %f) output က 
+![[double imprecision.png]]
 0.3 ဆိုပြီး ပိုတိကျတဲ့နေရာများလာပေမယ့် နောက်ပိုငး်နံပါတ်တွေက rounding ဖြစ်နေတုန်းဘဲ။
 
 ဒီလိုဖြစ်သွားတာကို <mark style="background: #FFB8EBA6;">floating-point imprecision</mark> ဖြစ်သွားတယ်လို့ခေါ်တယ်။ သဘောတရားကတော့ computer မှာ finite amount of memory (တိကျသတ်မှတ်ထားတဲ့ memory ပမာဏ) တစ်ခုဘဲရှိနေတဲ့အခါ infinite number of real numbers (တကယ့်ကိန်းတန်ဖိုးအစစ်ကို အဆုံးမရှိတဲ့အထိ) ဖော်ပြဖို့ရာမဖြစ်နိုင်တော့လို့ computer က auto rounding လုပ်ချလိုက်တာဖြစ်တယ်။

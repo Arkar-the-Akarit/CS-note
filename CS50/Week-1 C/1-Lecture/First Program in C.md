@@ -228,7 +228,7 @@ int a ကျတော့ ကွာသွားပြီ။ သူက function �
 
 ###### Loop
 
-for loop - for (initalize; conditoin; increments);
+for loop - for (initalize; condition; increments);
 
 while loop - condition မှန်နေသမျှ အလုပ်လုပ်မယ်။ while(true) {};
 

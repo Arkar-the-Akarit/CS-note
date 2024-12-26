@@ -3,7 +3,7 @@
 
 ascii art ဆိုတာက emoji တွေဘာတွေမသုံးဘဲ ASCII နဲ့ဘဲ လိုချင်တဲ့ ပုံလေးတွေရအောင်ဖန်တီးတာကိုပြောတာ 
 
-အဲ့လိုဖန်တီးထားပြီး command line arguments ပါသုံးထားတဲ့ program တစ်ခုကို linux မှာအပြင် VSCode-cs50 က terminal မှာလည်းထည့်ထားပေးတယ်။
+အဲ့လိုဖန်တီးထားပြီး command line arguments ပါသုံးထားတဲ့ program တစ်ခုကို  VSCode-cs50 က terminal မှာလည်းထည့်ထားပေးတယ်။
 
 ###### cowsay
 

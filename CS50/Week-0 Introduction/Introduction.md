@@ -44,6 +44,7 @@ number ‌တွေကို one and zero ဘဲပါတဲ့ binary digit sys
 one & zero နဲ့ နံပါတ်တွေ ကို သင်္ချာဂဏန်း 255 ထိဖော်ပြလိုက်သလိုဘဲ letters တွေကို ဖော်ပြတဲ့အခါ overlap (ထပ်)သွားတာမလို့ ASCII က တူညီတဲ့ 8 bits number ရှိတဲ့ base 10 numbers တွေနဲ့ alphabet letters ကိုတွဲပေးလိုက်တယ်။
 
 ![[ASCII table.png]]
+left is base 10 number, right is alphabet & letters
 
 ဥပမာကွာ 72 73 33 ဆိုရင် အဲ့နံပါတ်တွေကို ascii နဲ့  ချိတ်လိုက်တဲ့အခါမှာ HI! ဆိုပြီးရတယ်။
 ![[hi!.png]]
@@ -128,9 +129,9 @@ Pseudocode for Algorithm-3
 ```
 
 Pseudocode ထဲမှာ ရှိတဲ့ unique features လေးတွေ
-	- pseudocode ထဲမှာ စာကြောင်းအချို့က 'pick up', 'open', 'look at' တို့နဲ့ စထားတာကိုတွေ့ရမယ်။ အဲ့တာတွေကို --> function လို့ခေါ်
-	- အချို့လိုင်းတွေမှာက 'if' / 'else if ' စတဲ့ statements တွေနဲ့စထားတယ်။ --> conditionals လို့ခေါ်
-	- စာသားအချို့ကကျ မှန်/မှား (true or false) ဆိုပြီး ဆုံးဖြတ်ရတာမျိုး e.g. "person is earlier in the book" ဆိုတာမျိုးတွေ, ရှိလား မရှိဘူးလားပေါ့ --> boolean expression လို့ခေါ်
+	- pseudocode ထဲမှာ စာကြောင်းအချို့က <mark style="background: #BBFABBA6;">'pick up', 'open', 'look at' တို့လို verb နဲ့ စ</mark>ထားတာကိုတွေ့ရမယ်။ အဲ့တာတွေကို --> <mark style="background: #BBFABBA6;">function</mark> လို့ခေါ်
+	- အချို့လိုင်းတွေမှာက '<mark style="background: #ABF7F7A6;">if' / 'else if ' စတဲ့ statements တွေနဲ့စ</mark>ထားတယ်။ --> <mark style="background: #ABF7F7A6;">conditionals</mark> လို့ခေါ်
+	- စာသားအချို့ကကျ <mark style="background: #ADCCFFA6;">မှန်/မှား (true or false) ဆိုပြီး ဆုံးဖြတ်ရ</mark>တာမျိုး e.g. "person is earlier in the book" ဆိုတာမျိုးတွေ, ရှိလား မရှိဘူးလားပေါ့ --> <mark style="background: #ADCCFFA6;">boolean expression</mark> လို့ခေါ်
 	- 'go back to line 3' ဆိုပြီး တစ်နေရာရာကို ပြန်သွားခိုင်းတာမျိုးကျ    --> loop 
 	- အပေါ်က အခေါ််အဝေါ်/အယူအဆလေးတွေက programming မှာ အခြေခံဘဲ
 

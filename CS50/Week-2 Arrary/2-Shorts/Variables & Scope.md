@@ -19,7 +19,7 @@ C language က Variable တွေဟာဆိုရင် <mark style="backgroun
 
 ဒါကို CS50 မှာ ဒီလိုပြထားတယ်။
 
--- When a variable is passed by value, the <span style="color:rgb(255, 155, 0)">calle</span> (the function which is receiving the variable) receives a<span style="color:rgb(0, 176, 240)"> copy of the passed variable</span>, not the variable itself.
+-- When a variable is passed by value, the <span style="color:rgb(255, 155, 0)">calle</span> (the function which is being called & receiving the variable) receives a<span style="color:rgb(0, 176, 240)"> copy of the passed variable</span>, not the variable itself.
 
 -- the variable in the <span style="color:rgb(255, 155, 0)">caller</span> (the function that is making the function call) is unchanged unless overwritten
 
