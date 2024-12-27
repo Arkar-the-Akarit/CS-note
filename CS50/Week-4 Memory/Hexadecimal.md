@@ -8,3 +8,11 @@ Hexadecimal မှာဆိုရင် two digit က စပြီးဖော�
 ဥပမာ - 15 က F, 16 က `1 0 `ဖြစ်မယ်။ တွက်ကြည့်မယ်ဆိုရင် အနောက်က 16<sup>1</sup> = 0, အရှေ့ကိန်းက 1<sup>0</sup> =  ဆိုတော့ 16 + 0 = 16, 
 
 F F ဆိုရင် 16 /* (15)F = 240, အနောက်က 1 /* (15)F = 15, ဒီတော့ 240 + 15 = 255
+
+###### How hexadecimal is represented in computer memory
+
+computer ပိုင်းမှာလည်း memory တွေကို address လုပ်ဖို့အတွက် hexadecimal တွေကို အသုံးပြုတယ်။
+ဒါပေမယ့် hexa 10, 11 က decimal 16, 17 လို့ သာမန်လူတွေကြသိဖုိ့ခက်ပြီး hexadecimal တွေကို decimal ကိန်းလို့ထင်သွားနိုင်တယ်။ ဒီတော့ convention ဖြစ်အောင်
+
+memory အခန်းတွေကို ညွှန်းဖို့အတွက် hexadecimal ကိန်းတွေရှေ့မှာ "<mark style="background: #FFF3A3A6;">0 x </mark>" ဆိုတာ ထည့်ထားပြီးဖော်ပြတယ်။ mathematically အတွက်မဟုတ်ဘဲ hexadecimal ဖြစ်တယ်ဆိုတာသိအောင်လို့သာ ထည့်သုံးခြင်းဖြစ်တယ်။
+![[how_hexadecimal_is_reprsented_in_memory.png]]
