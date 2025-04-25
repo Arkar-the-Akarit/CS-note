@@ -74,3 +74,54 @@ Combining these steps:
 - The merging step is O(n) at each level.
 
 So, the total time complexity is ( O(n \log n) ), because you perform the merge step (O(n)) at each level of recursion (O(\log n)).
+
+```
+# let's there be an array of number
+
+1. if one number, quit
+2. else, find the len, half it (what if even or odd num?)
+3. we have left & right part
+4. that's left part is also half until there is two
+5. compare and if needed, switch
+6. and then what? like we gonna compare the second and thrid number or as we sorted first and second num, will we sort third and fourth?? a
+
+
+```
+
+arr = 1,2,3,4
+size = 3
+
+ms is mergeSort()
+m is merge()
+
+so in main 
+1 ms(arr,0(left),size(right))
+
+inside first ms call, 
+
+left !>= right (false condition)
+m = 0 + 3 / 2 = 1
+ms(a, 0(left),1(mid)) # left part
+ms(a,1+1(mid+1),3(right)) # right part
+m(arr,0(left), 1(mid),3(right))
+
+in the 1.1 ms (inside of 1 ms call, recursive ms)
+1.1 ms ms (a,0(left),1(mid)(right))
+condition false
+m = 0
+ms (a, 0(left),0(mid))
+ms (a, 0+1, 1(right))
+m (a, 0, 0,1)
+
+in 1.1.1 ms(a,0(left),0(mid)) condition treu : return
+
+so 1.1.2 ms(a,1,1(right)) conditon true, return
+
+merge funtion (a,0,0.1) a = {1,2,3,4}
+
+i = left, i = 0
+j = mid + 1 = 0 + 1 = 1
+k = 0
+temp[right-left + 1] = temp[2]
+blah blah and not sure 1 and 2 will be chedk to sort. or not
+
